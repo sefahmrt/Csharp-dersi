@@ -1,4 +1,4 @@
-# 🚀 C# Form Temelleri: Öğrenim Günlüğü
+# 🚀 C# Temelleri: Öğrenim Günlüğü
 
 Bu depo, C# dilini ve Windows Forms arayüzünü öğrenirken yaptığım temel uygulama çalışmalarını içermektedir. Udemy üzerinden takip ettiğim eğitimdeki konuları sırasıyla pratiğe döküyorum.
 
