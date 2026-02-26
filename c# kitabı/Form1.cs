@@ -21,7 +21,7 @@ namespace c__kitabı
 
         private void button2_Click(object sender, EventArgs e)
         {
-            comboBox1.Items.Add("Hazırlık");
+            comboBox1.Items.Add("Hazırlık oe");
         }
 
         private void button3_Click(object sender, EventArgs e)
