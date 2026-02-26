@@ -13,12 +13,5 @@ Bu depo, C# dilini ve Windows Forms arayüzünü öğrenirken yaptığım temel 
 * **Picturebox**
 * **Datetimepicker**
 
-## 📌 Uyguladığım Mantıklar
-* Listeye veri ekleme.
-* Temel metin (string) işlemleri.
-
-## 💻 Çalıştırma
-* Visual Studio ile `.sln` dosyasını açıp **Start** butonuna basmanız yeterlidir.
-
 ---
 *Gelişmeye ve yeni özellikler eklemeye devam ediyorum...* 👨‍💻
